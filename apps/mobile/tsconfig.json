@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {},
+  "extends": "expo/tsconfig.base",
+  "jsx": "react",
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    ".expo/types/**/*.ts",
+    "expo-env.d.ts",
+    "metro.config.js"
+  ]
+}
